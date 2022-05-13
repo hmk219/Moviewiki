@@ -23,6 +23,6 @@
 5. 기타 회원관리 기능
 * 가입, 탈퇴, 로그인, 로그아웃, 회원정보수정
 
-#### 이 프로젝트는 2021년 7월부터 2021년 9월까지 약 3개월의 기간동안 5인의 팀원이 **Java 1.8**, **Spring**, **Oracle DB**, **JPA**를 사용하여 개발했으며 관련 내용은 [GitHub](https://github.com/moviewiki-team/moviewiki)(코드 버전 관리), [Notion](hip-tablecloth-89b.notion.site)(회의록, 일정 관리), [Google Drive](https://drive.google.com/drive/folders/1LWBwnqdfA8amZ1mKw6PPa81LmBxjikeu)(UML 등 문서 관리)에서 볼 수 있다.
+#### 이 프로젝트는 2021년 7월부터 2021년 9월까지 약 3개월의 기간동안 5인의 팀원이 **Java 1.8**, **Spring**, **Oracle DB**, **JPA**를 사용하여 개발했으며 관련 내용은 [GitHub](https://github.com/moviewiki-team/moviewiki)(코드 버전 관리), [Notion](https://www.notion.so/hip-tablecloth-89b)(회의록, 일정 관리), [Google Drive](https://drive.google.com/drive/folders/1LWBwnqdfA8amZ1mKw6PPa81LmBxjikeu)(UML 등 문서 관리)에서 볼 수 있다.
 
 ### 이 리파지토리에서는 기존의 프로젝트를 개인적으로 리팩토링하여 버전업할 예정이다.(2022.05~)
